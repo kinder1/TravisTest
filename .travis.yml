@@ -1,3 +1,4 @@
+language: adnroid
 android:
   components:
     - tools
